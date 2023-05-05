@@ -1,0 +1,1 @@
+print("nasz wykladowca jest the best")
